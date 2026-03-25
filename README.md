@@ -1,2 +1,2 @@
 # Subfuzz
-Subdomain Enumeration Bot
+Subdomain Fuzzing and Enumeration Bot + Multi Thread
